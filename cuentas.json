@@ -1,0 +1,79 @@
+{
+    "catalogo":[
+        {
+            "id":1,
+            "tipo":"mayor",
+            "nombre":"Efectivo y equivalentes"
+        },
+        {
+            "id":2,
+            "tipo":"subcuenta",
+            "nombre":"Caja"
+        },
+        {
+            "id":3,
+            "tipo":"subcuenta",
+            "nombre":"Bancos"
+        },
+        {
+            "id":4,
+            "tipo":"mayor",
+            "nombre":"Inventarios"
+        },
+        {
+            "id":5,
+            "tipo":"mayor",
+            "nombre":"Propiedad Planta y Equipo"
+        },
+        {
+            "id":6,
+            "tipo":"subcuenta",
+            "nombre":"Equipo de Transporte"
+        },
+        {
+            "id":7,
+            "tipo":"subcuenta",
+            "nombre":"Mobiliario y Equipo"
+        },
+        {
+            "id":8,
+            "tipo":"mayor",
+            "nombre":"Capital"
+        },
+        {
+            "id":9,
+            "tipo":"mayor",
+            "nombre":"Cuentas por pagar"
+        },
+        {
+            "id":10,
+            "tipo":"mayor",
+            "nombre":"Ventas"
+        },
+        {
+            "id":11,
+            "tipo":"mayor",
+            "nombre":"Debito fiscal"
+        },
+        {
+            "id":12,
+            "tipo":"mayor",
+            "nombre":"Costo de Ventas"
+        },
+        {
+            "id":13,
+            "tipo":"mayor",
+            "nombre":"Cuentas por cobrar"
+        },
+        {
+            "id":14,
+            "tipo":"subcuenta",
+            "nombre":"Clientes"
+        },
+        {
+            "id":15,
+            "tipo":"mayor",
+            "nombre":"Crédito fiscal"
+        }
+    ]
+}

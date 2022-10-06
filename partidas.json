@@ -1,0 +1,289 @@
+{
+    "libro": [
+        {
+            "fecha": "2021-08-01",
+            "folio": "",
+            "cuentas": [
+                {
+                    "idCuenta": 1,
+                    "parcial": 0,
+                    "debe": 30000,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 2,
+                    "parcial": 12000,
+                    "debe": 0,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 3,
+                    "parcial": 18000,
+                    "debe": 0,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 4,
+                    "parcial": 0,
+                    "debe": 7425,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 5,
+                    "parcial": 0,
+                    "debe": 15500,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 7,
+                    "parcial": 4500,
+                    "debe": 0,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 6,
+                    "parcial": 11000,
+                    "debe": 0,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 9,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 3712.5
+                },
+                {
+                    "idCuenta": 8,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 49212.5
+                }
+            ],
+            "concepto": "Apertura contable"
+        },
+        {
+            "fecha": "2021-08-02",
+            "folio": "",
+            "cuentas": [
+                {
+                    "idCuenta": 1,
+                    "parcial": 0,
+                    "debe": 6308.23,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 2,
+                    "parcial": 6308.23,
+                    "debe": 0,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 10,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 5582.5
+                },
+                {
+                    "idCuenta": 11,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 725.73
+                }
+            ],
+            "concepto": "Venta de mercadería al contribuyente"
+        },
+        {
+            "fecha": "2021-08-02",
+            "folio": "",
+            "cuentas": [
+                {
+                    "idCuenta": 12,
+                    "parcial": 0,
+                    "debe": 3850,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 4,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 3850
+                }
+            ],
+            "concepto": "Costo de mercadería vendida"
+        },
+        {
+            "fecha": "2021-08-03",
+            "folio": "",
+            "cuentas": [
+                {
+                    "idCuenta": 1,
+                    "parcial": 0,
+                    "debe": 6308.23,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 3,
+                    "parcial": 6308.23,
+                    "debe": 0,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 1,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 6308.23
+                },
+                {
+                    "idCuenta": 2,
+                    "parcial": 6308.23,
+                    "debe": 0,
+                    "haber": 0
+                }
+            ],
+            "concepto": "Envió de remesa a bancos"
+        },
+        {
+            "fecha": "2021-08-04",
+            "folio": "",
+            "cuentas": [
+                {
+                    "idCuenta": 13,
+                    "parcial": 0,
+                    "debe": 2457.75,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 14,
+                    "parcial": 2457.75,
+                    "debe": 0,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 10,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 2175
+                },
+                {
+                    "idCuenta": 11,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 282.75
+                },
+                {
+                    "idCuenta": 1,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 0
+                }
+            ],
+            "concepto": "Venta de mercadería al contribuyente"
+        },
+        {
+            "fecha": "2021-08-04",
+            "folio": "",
+            "cuentas": [
+                {
+                    "idCuenta": 12,
+                    "parcial": 0,
+                    "debe": 1500,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 4,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 1500
+                }
+            ],
+            "concepto": "Costo de mercadería vendida"
+        },
+        {
+            "fecha": "2021-08-05",
+            "folio": "",
+            "cuentas": [
+                {
+                    "idCuenta": 4,
+                    "parcial": 0,
+                    "debe": 4500,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 15,
+                    "parcial": 0,
+                    "debe": 585,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 9,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 5085
+                }
+            ],
+            "concepto": "Compra de mercadería para la venta"
+        },
+        {
+            "fecha": "2021-08-06",
+            "folio": "",
+            "cuentas": [
+                {
+                    "idCuenta": 4,
+                    "parcial": 0,
+                    "debe": 3500,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 15,
+                    "parcial": 0,
+                    "debe": 455,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 1,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 3955
+                },
+                {
+                    "idCuenta": 3,
+                    "parcial": 3955,
+                    "debe": 0,
+                    "haber": 0
+                }
+            ],
+            "concepto": "Compra de mercadería para la venta"
+        },
+        {
+            "fecha": "2021-08-07",
+            "folio": "",
+            "cuentas": [
+                {
+                    "idCuenta": 5,
+                    "parcial": 0,
+                    "debe": 2500,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 15,
+                    "parcial": 0,
+                    "debe": 325,
+                    "haber": 0
+                },
+                {
+                    "idCuenta": 1,
+                    "parcial": 0,
+                    "debe": 0,
+                    "haber": 2825
+                },
+                {
+                    "idCuenta": 2,
+                    "parcial": 2825,
+                    "debe": 0,
+                    "haber": 0
+                }
+            ],
+            "concepto": "Compra de equipo para la empresa"
+        }
+    ]
+}
